@@ -1,0 +1,8 @@
+a.out
+*.swp
+*.swo
+notes
+disas
+*.png
+how-to-objdump-focused
+.DS*
